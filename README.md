@@ -16,3 +16,7 @@
 </a>
 <br><br>
 <a href="https://opgc.me/#/users/dharana77" target="_blank"><img src="https://api.opgc.me/githubs/users/dharana77/tag/?theme=basic" /></a>
+<br><br>
+<a href="https://solved.ac/adolfd">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adolfd" />
+</a>
