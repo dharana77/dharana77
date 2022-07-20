@@ -1,5 +1,7 @@
-하루하루 최선을 다하다 보면,
-아이디어 뱅커
+하루하루 최선을 다하다 보면
+ <br>
+아이디어 뱅커 <br>
+
 <a href="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </a>
