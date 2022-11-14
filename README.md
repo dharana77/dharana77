@@ -1,4 +1,4 @@
-아이디어 테스터
+백엔드 개발자
 
 <a href="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -23,8 +23,6 @@
 </a>
 <br><br>
 
-<a href="https://opgc.me/#/users/dharana77" target="_blank"><img src="https://api.opgc.me/githubs/users/dharana77/tag/?theme=basic" /></a>
-<br><br>
 
 <a href="https://solved.ac/adolfd">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adolfd" />
