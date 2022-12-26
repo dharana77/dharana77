@@ -22,8 +22,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dharana77&show_icons=true">
 </a>
 <br><br>
-
-
-<a href="https://solved.ac/adolfd">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adolfd" />
-</a>
