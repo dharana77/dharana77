@@ -9,4 +9,6 @@ I love my country and believe that we will overcome the crisis. And I, too, will
 Let's become developers who are like rebels.
 
 Let's not succumb to unauthorized authority.
+
+I believe in the innate beauty and divinity of humanity.
 <br><br>
