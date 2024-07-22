@@ -1,7 +1,5 @@
 Software Engineer
 
-I love study, research, challenge and know everything
-
 Just Practice Everday
 
 For human
