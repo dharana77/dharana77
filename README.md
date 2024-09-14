@@ -1,4 +1,3 @@
-Software Engineer
 
 Maximizing value for everyone
 
